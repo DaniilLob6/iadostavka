@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BestDelivery">
+      <HintPath>\\172.16.98.1\аудитория 216\ИСП-8\ПП 01.01\Кейс 1\BestDelivery.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
